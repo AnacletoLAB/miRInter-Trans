@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# model checkpoints
+RNA-FM/redevelop/pretrained/
+
 # C extensions
 *.so
 
