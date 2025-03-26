@@ -1,0 +1,8 @@
+2025-03-17 09:49:26,295 prediction INFO: Using 1 GPUS, GPU ID: 1
+2025-03-17 09:49:26,295 prediction INFO: Loaded configuration file pretrained/extract_embedding.yml
+2025-03-17 09:49:26,295 prediction INFO: Model File:none
+2025-03-17 09:49:26,295 prediction INFO: Batch Size:1
+2025-03-17 09:49:26,296 prediction INFO: Threshold:0.5
+2025-03-17 09:49:26,296 prediction INFO: Prediction Dataset: ./data/data_rna_rna_inter/mirna-mirna_train_fasta.fasta
+2025-03-17 09:49:27,202 prediction.inference INFO: Enter inferencing for Custom set
+2025-03-17 09:49:45,763 prediction.inference INFO: Finish Prediction
